@@ -17,7 +17,7 @@ Currently focusing on programming and exploring different areas in IT, with a gr
   
 ## Projects
 - **Travel Website:** Built a responsive travel website using HTML, CSS, and JavaScript 🌍
--**Temperature-Based Fan Speed Controller:**  Developed a DLD project to control fan speed based on temperature readings 🌡️
+- **Temperature-Based Fan Speed Controller:** Developed a DLD project to control fan speed based on temperature readings 🌡️
   
 ## Contact
 - **Email:** your-email@gmail.com  
