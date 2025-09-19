@@ -20,5 +20,5 @@ Currently focusing on programming and exploring different areas in IT, with a gr
 - **Temperature-Based Fan Speed Controller:** Developed a DLD project to control fan speed based on temperature readings 🌡️
   
 ## Contact
-- **Email:** your-email@gmail.com  
+- **Email:** smitabiswas127@gmail.com  
 - **GitHub:** [github.com/Meghla-Biswas](https://github.com/Meghla-Biswas)  
