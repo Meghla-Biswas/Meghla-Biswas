@@ -4,12 +4,10 @@ I am a 2nd year student at the **Institute of Information Technology, Jahangirna
 Currently focusing on programming and exploring different areas in IT, with a growing interest in **Web Development**🌐.
 
 ## About Me
-- 2nd Year B.Sc. (Hons.) Student in Information Technology  
 - Learning programming fundamentals and databases  
 - Building skills in web technologies  
 - Interested in continuous learning and self-improvement
   
-
 ## Skills 
 - **Programming Languages:** C, C++, Java  
 - **Web Technologies:** HTML, CSS, JavaScript  
